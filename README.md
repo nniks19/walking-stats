@@ -1,1 +1,1 @@
-# walking-stats
+Project is in planning phase.
